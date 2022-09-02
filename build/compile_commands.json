@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/VSCode workplace/CSkipTable_template/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/main_cmake.dir/includes_CXX.rsp -g   -Wall -std=c++11 -o CMakeFiles\\main_cmake.dir\\strees_test.cpp.obj -c \"D:\\VSCode workplace\\CSkipTable_template\\strees_test.cpp\"",
+  "file": "D:/VSCode workplace/CSkipTable_template/strees_test.cpp"
+}
+]

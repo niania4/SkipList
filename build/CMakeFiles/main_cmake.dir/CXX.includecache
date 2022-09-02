@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/SkipList.h
+iostream
+-
+mutex
+-
+fstream
+-
+math.h
+../include/math.h
+
+D:/VSCode workplace/CSkipTable_template/strees_test.cpp
+SkipList.h
+D:/VSCode workplace/CSkipTable_template/SkipList.h
+cstdlib
+-
+pthread.h
+-
+
